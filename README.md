@@ -1,9 +1,12 @@
 # I2C 16x2 LCD with three different microcontrollers
 The key learning from this setup is that I2C communication remains the same, regardless of the microcontroller.
 
-&nbsp;&nbsp;&nbsp; I recently connected an I2C 16×2 LCD with three different microcontrollers:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I recently connected an I2C 16×2 LCD with three different microcontrollers:
+
                              ✅ Arduino UNO
+                             
                              ✅ ESP32
+                             
                              ✅ NodeMCU (ESP8266)
 
 ## 1️⃣ What is I2C?
