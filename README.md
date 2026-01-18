@@ -1,4 +1,4 @@
-# I2C-16-2-LCD-with-three-different-microcontrollers-
+# I2C 16x2 LCD with three different microcontrollers
 The key learning from this setup is that I2C communication remains the same, regardless of the microcontroller.
 
 ## 1️⃣ What is I2C?
