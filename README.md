@@ -42,7 +42,7 @@ The key learning from this setup is that I2C communication remains the same, reg
 
 ## 5️⃣ Program
 
-For finding I2C Address of LCD :[Click here]()
+For finding I2C Address of LCD :[Click here](https://github.com/Karthikeyanmac/I2C-16-2-LCD-with-three-different-microcontrollers-/blob/main/I2C_Address_Finder.ino)
 
 For Arduino UNO and ESP32 integrating with I2C LCD :[Click here](https://github.com/Karthikeyanmac/I2C-16-2-LCD-with-three-different-microcontrollers-/blob/main/I2C_lcd.ino)
 
