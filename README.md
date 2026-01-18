@@ -2,8 +2,11 @@
 The key learning from this setup is that I2C communication remains the same, regardless of the microcontroller.
 
 # 1️⃣ What is I2C?
-• Two-wire communication protocol 
-• Master–slave architecture 
+
+• Two-wire communication protocol
+
+• Master–slave architecture
+
 • SDA = data, SCL = clock
 
 # 2️⃣ Why only two wires?
