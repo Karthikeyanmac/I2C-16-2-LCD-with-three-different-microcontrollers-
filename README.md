@@ -1,4 +1,4 @@
-# I2C-16-2-LCD-with-three-different-microcontrollers-
+## I2C-16-2-LCD-with-three-different-microcontrollers-
 The key learning from this setup is that I2C communication remains the same, regardless of the microcontroller.
 
 # 1️⃣ What is I2C?
@@ -10,10 +10,12 @@ The key learning from this setup is that I2C communication remains the same, reg
 • SDA = data, SCL = clock
 
 # 2️⃣ Why only two wires?
+
 • Address-based device selection
+
 • Multiple devices on same bus
 
-## 🔌 I2C LCD Pin Mapping
+# 3️⃣ I2C LCD Pin Mapping
 
 | Microcontroller | SDA Pin | SCL Pin |
 |-----------------|--------|--------|
@@ -23,7 +25,10 @@ The key learning from this setup is that I2C communication remains the same, reg
 
 
 # 4️⃣ What stays the same?
+
 • I2C address (0x27)
+
 • LCD commands
+
 • Communication flow
 
