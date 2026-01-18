@@ -10,11 +10,14 @@ SDA = data, SCL = clock
 Address-based device selection
 Multiple devices on same bus
 
-# | MCU         | SDA    | SCL    |
-  | ----------- | ------ | ------ |
-  | Arduino UNO | A4     | A5     |
-  | ESP32       | GPIO21 | GPIO22 |
-  | NodeMCU     | D2     | D1     |
+## 🔌 I2C LCD Pin Mapping
+
+| Microcontroller | SDA Pin | SCL Pin |
+|-----------------|--------|--------|
+| Arduino UNO | A4 | A5 |
+| ESP32 | GPIO21 | GPIO22 |
+| NodeMCU (ESP8266) | D2 (GPIO4) | D1 (GPIO5) |
+
 
 # 4️⃣ What stays the same?
 I2C address (0x27)
