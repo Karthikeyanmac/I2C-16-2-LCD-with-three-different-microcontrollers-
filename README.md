@@ -2,13 +2,13 @@
 The key learning from this setup is that I2C communication remains the same, regardless of the microcontroller.
 
 # 1️⃣ What is I2C?
-Two-wire communication protocol
-Master–slave architecture
-SDA = data, SCL = clock
+• Two-wire communication protocol
+• Master–slave architecture
+• SDA = data, SCL = clock
 
 # 2️⃣ Why only two wires?
-Address-based device selection
-Multiple devices on same bus
+• Address-based device selection
+• Multiple devices on same bus
 
 ## 🔌 I2C LCD Pin Mapping
 
@@ -20,7 +20,7 @@ Multiple devices on same bus
 
 
 # 4️⃣ What stays the same?
-I2C address (0x27)
-LCD commands
-Communication flow
+• I2C address (0x27)
+• LCD commands
+• Communication flow
 
