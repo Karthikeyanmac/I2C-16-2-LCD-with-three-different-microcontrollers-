@@ -44,9 +44,9 @@ The key learning from this setup is that I2C communication remains the same, reg
 
 For finding I2C Address of LCD :[Click here](https://github.com/Karthikeyanmac/I2C-16-2-LCD-with-three-different-microcontrollers-/blob/main/I2C_Address_Finder.ino)
 
-For Arduino UNO and ESP32 integrating with I2C LCD :[Click here](https://github.com/Karthikeyanmac/I2C-16-2-LCD-with-three-different-microcontrollers-/blob/main/I2C_lcd.ino)
+For Arduino UNO,ESP32 and  NodeMCU(ESP8266) integrating with I2C LCD :[Click here](https://github.com/Karthikeyanmac/I2C-16-2-LCD-with-three-different-microcontrollers-/blob/main/I2C_lcd.ino)
 
-For NodeMCU(ESP8266) integrating with I2C LCD :[Click here](https://github.com/Karthikeyanmac/I2C-16-2-LCD-with-three-different-microcontrollers-/blob/main/I2Clcdwithesp8266.ino)
+
 
 
 
