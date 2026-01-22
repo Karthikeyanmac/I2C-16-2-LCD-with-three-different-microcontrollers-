@@ -48,7 +48,7 @@ For Arduino UNO,ESP32 and  NodeMCU(ESP8266) integrating with I2C LCD :[Click her
 
 ## 6️⃣ Output
 
-![Breadboard](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/breadboard_image.jpg)
+![Breadboard](https://github.com/Karthikeyanmac/I2C-16-2-LCD-with-three-different-microcontrollers-/blob/main/Arduino.jpeg)
 
 ![Breadboard](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/breadboard_image.jpg)
 
