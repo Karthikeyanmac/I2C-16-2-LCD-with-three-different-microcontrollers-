@@ -49,12 +49,15 @@ For Arduino UNO,ESP32 and  NodeMCU(ESP8266) integrating with I2C LCD :[Click her
 ## 6️⃣ Output
 
 Arduino UNO
+
 ![](https://github.com/Karthikeyanmac/I2C-16-2-LCD-with-three-different-microcontrollers-/blob/main/Arduino.jpeg)
 
 ESP 32
+
 ![](https://github.com/Karthikeyanmac/I2C-16-2-LCD-with-three-different-microcontrollers-/blob/main/ESP32.jpeg)
 
 Node MCU
+
 ![](https://github.com/Karthikeyanmac/I2C-16-2-LCD-with-three-different-microcontrollers-/blob/main/Node%20MCU.jpeg)
 
 
